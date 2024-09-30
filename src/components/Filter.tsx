@@ -10,10 +10,10 @@ function Filter() {
         </select>
       </div>
 
-      <div className="products__filter-button filter" onClick={}>
+      <div className="products__filter-button filter" >
         Filter
       </div>
-      <div className="products__filter-button showAll" onClick={}>
+      <div className="products__filter-button showAll" >
         Show All
       </div>
     </div>
