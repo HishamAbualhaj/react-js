@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import Container from "./components/Container";
 import Header from "./components/Header";
-import Filter from "./components/filter";
+import Filter from "./components/Filter";
 import ProductsList from "./components/ProductsList";
 
 interface ProductType {
